@@ -16,8 +16,8 @@
   });
 </script>
 
-<main>
-  <div class="logo-animation"></div>
+<main class="flex w-full justify-center items-center overflow-x-hidden">
+  <div class="logo-animation -500:w-full -500:scale-[3] overflow-hidden flex justify-center items-center"></div>
 </main>
 
 <style>
